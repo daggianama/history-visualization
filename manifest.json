@@ -8,7 +8,7 @@
   ],
   "action": {
     "default_popup": "history-visualizer.html",
-    "default_icon": "chart-simple-solid.svg"
+    "default_icon": "grafico-de-barras.png"
   }
 }
 
